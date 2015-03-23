@@ -1,0 +1,22 @@
+{
+  "name": "icebox",
+  "version": "0.0.1",
+  "description": "Boilerplate React w/ Flux setup.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benmanu/icebox.git"
+  },
+  "author": "benmanu",
+  "bugs": {
+    "url": "https://github.com/benmanu/icebox/issues"
+  },
+  "homepage": "https://github.com/benmanu/icebox",
+  "dependencies": {
+    "react": "^0.12.2",
+    "flux": "^2.0.1",
+    "fluxxor": "^1.5.2",
+    "underscore": "^1.8.2",
+    "reqwest": "^1.1.5"
+  }
+}
